@@ -4,6 +4,13 @@
 I'm a skilled data professional with expertise in SQL, Alteryx, Tableau, and Tableau Prep. I specialize in building dashboards and data solutions for diverse institutions. My dedication lies in deriving valuable data insights and delivering effective, data-driven solutions.  
 <br>
 <br>
+
+### Data Prep Projects
+----------
+[![Prepping Data Challenges (Custom)](https://github.com/shresnit/shresnit/assets/100710335/ff4d227b-5f07-4e85-b896-890a8f0638b7)
+](https://github.com/shresnit/Data-Prep-in-SQL)
+<br>
+
 ### 📊 Data Visualization Projects
 ----------
 
@@ -14,10 +21,7 @@ I'm a skilled data professional with expertise in SQL, Alteryx, Tableau, and Tab
 
 <br>
 
-### Data Prepping Challenges
-----------
-[![Prepping Data Challenges (Custom)](https://github.com/shresnit/shresnit/assets/100710335/ff4d227b-5f07-4e85-b896-890a8f0638b7)
-](https://github.com/shresnit/Data-Prep-in-SQL)
+
 
 
 
