@@ -5,7 +5,19 @@ I'm a skilled data professional with expertise in SQL, Alteryx, Tableau, and Tab
 <br>
 <br>
 
-### Data Prep Projects
+### ✅ Certifications
+-----------
+[![Tableau (Custom)](https://github.com/shresnit/shresnit/assets/100710335/833c0ca9-8cc2-441e-9878-5e3b2b72754b)
+](https://www.credly.com/badges/cf5fab36-1fe2-438a-a6e3-40f28abb4e73/public_url) &emsp;
+[![Alteryx Adv (Custom)](https://github.com/shresnit/shresnit/assets/100710335/7533ee45-077a-40de-87d5-5df6cc344f6f)
+](https://www.credly.com/badges/fee01b76-ae9b-40a6-a03a-a01a87771bd0/public_url) &emsp;
+[![MS (Custom)](https://github.com/shresnit/shresnit/assets/100710335/e30dd5aa-a454-4c68-8ca7-6be671128483)
+](https://www.credly.com/badges/a1b6a61f-8ef4-4342-bbc6-b9ca78a14912/public_url) &emsp;
+[![SAS (Custom)](https://github.com/shresnit/shresnit/assets/100710335/e35d9062-883f-454a-8224-2f1c479a5fc9)
+](https://www.credly.com/badges/4d163dd8-1750-459f-a3fc-708e41f5532f/public_url) &emsp;
+
+
+### 🔢 Data Prep Projects
 ----------
 [![Prepping Data Challenges (Custom)](https://github.com/shresnit/shresnit/assets/100710335/ff4d227b-5f07-4e85-b896-890a8f0638b7)
 ](https://github.com/shresnit/Data-Prep-in-SQL)
