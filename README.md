@@ -19,8 +19,8 @@ I'm a skilled data professional with expertise in SQL, Alteryx, Tableau, and Tab
 
 ### 🔢 Data Prep Projects
 ----------
-[![Prepping Data Challenges (Custom)](https://github.com/shresnit/shresnit/assets/100710335/ff4d227b-5f07-4e85-b896-890a8f0638b7)
-](https://github.com/shresnit/Data-Prep-in-SQL)
+[![Prepping Data Challenges (Custom)](https://github.com/shresnit/shresnit/assets/100710335/194708b2-4181-4adc-8049-ee07b34f3e32)
+](https://github.com/shresnit/Preppin-Data-Challenges-in-SQL-Python/)
 <br>
 
 ### 📊 Data Visualization Projects
