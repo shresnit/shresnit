@@ -33,6 +33,11 @@ I'm a skilled data professional with expertise in SQL, Alteryx, Tableau, and Tab
 
 <br>
 
+### 📝 BLOGS and Articles
+----------
+[![bLOGS (Custom)](https://github.com/shresnit/shresnit/assets/100710335/884f6bcb-b54c-43a0-8b2a-78fe12a8d38f)](https://www.thedataschool.co.uk/blog/nitesh-shrestha/)
+
+
 
 
 
