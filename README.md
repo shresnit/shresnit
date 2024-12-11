@@ -25,6 +25,8 @@ I'm a skilled data professional with expertise in SQL, Alteryx, Tableau, and Tab
 
 ### 📊 Data Visualization Projects
 ----------
+[![Demand and Capacity Dashboard (Custom) (1)](https://github.com/user-attachments/assets/b5160d2e-a022-4cbd-ae2b-49bc4935d485)
+](https://public.tableau.com/app/profile/nitesh.shresthaa/viz/DemandCapacityDashboard/DemandOverview)
 [![Payment Transaction Dashboard (Custom)](https://github.com/shresnit/shresnit/assets/100710335/fa628b03-12f8-4af9-b261-afadde87cb94)](https://public.tableau.com/app/profile/nitesh.shresthaa/viz/AuthorizationDashboard_Mockv8/PaymentTransactionDashboard)
 [![Robert (Custom)](https://github.com/shresnit/shresnit/assets/100710335/3b9b710b-0a4b-4ce7-a5d8-a329c35335d7)](https://public.tableau.com/app/profile/nitesh.shresthaa/viz/RobertDowneyJr__17050878656500/RobertDownyJr)
 [![Hospitality Dashboard (Custom) (Custom) (1)](https://github.com/shresnit/shresnit/assets/100710335/e5b5cf8e-d108-4667-9b4c-df4765116178)](https://public.tableau.com/app/profile/nitesh.shresthaa/viz/HospitalityDashboard1_16912742917150/HospitalityDashboard)
